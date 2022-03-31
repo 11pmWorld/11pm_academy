@@ -11,9 +11,9 @@
     <a href="https://discord.gg/11pm">
     <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://twitter.com/11pmU">
-    <img alt="Twitter" src="https://img.shields.io/badge/BnademOverFlow%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+    <img alt="Twitter" src="https://img.shields.io/badge/11pmU%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
     <a href="https://www.twitch.tv/11pm_world">
-    <img alt="Twitch" src="https://img.shields.io/badge/BnademOverFlow%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
+    <img alt="Twitch" src="https://img.shields.io/badge/11PM_World%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
 </p>
 
 ## Authors
